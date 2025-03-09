@@ -9,7 +9,7 @@
 
 🔹 **Tecnologías**  
 💻 **Lenguajes**: Python, Java, SQL  
-🛠️ **Herramientas**: FastAPI, Django, Flask, SQL Server, MongoDB  
+🛠️ **Herramientas**: FastAPI,SQL Server, MongoDB, SonaQube
 🔎 **Ciberseguridad**: OSINT, análisis de vulnerabilidades, pruebas de seguridad  
 
 🌱 Actualmente profundizando en **pentesting, pruebas de software y cloud security**.  
