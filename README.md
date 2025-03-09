@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Gusttowo!  
+# 👋 ¡Hola, soy Gustt!  
 
 🚀 Apasionado por la **ciberseguridad**, el **desarrollo backend** y la **arquitectura de software**.  
 
@@ -6,7 +6,7 @@
 
 ## 🔹 Sobre mí  
 
-🎯 Soy un entusiasta de la **seguridad informática** y el desarrollo de software, con experiencia en auditoría, detección de vulnerabilidades y pruebas de seguridad. Me interesa crear sistemas robustos y escalables, aplicando buenas prácticas de desarrollo y aseguramiento de la calidad del software.  
+🎯 Soy un entusiasta de la **seguridad informática** y el desarrollo de software, con algo de experiencia en auditoría, detección de vulnerabilidades y pruebas de seguridad. Me interesa crear sistemas robustos y escalables, aplicando buenas prácticas de desarrollo y aseguramiento de la calidad del software.  
 
 ---
 
