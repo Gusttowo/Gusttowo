@@ -7,10 +7,10 @@
 - Arquitectura de software y buenas prácticas de desarrollo 🏗️  
 - Bases de datos y gestión eficiente de la información 📊  
 
-🔹 **Tecnologías**  
-💻 **Lenguajes**: Python, Java, SQL  
-🛠️ **Herramientas**: FastAPI,SQL Server, MongoDB, SonaQube
-🔎 **Ciberseguridad**: OSINT, análisis de vulnerabilidades, pruebas de seguridad  
+🔹 **Tecnologías** 
+- 💻 **Lenguajes**: Python, Java, SQL  
+- 🛠️ **Herramientas**: FastAPI,SQL Server, MongoDB, SonaQube
+- 🔎 **Ciberseguridad**: OSINT, análisis de vulnerabilidades, pruebas de seguridad  
 
 🌱 Actualmente profundizando en **pentesting, pruebas de software y cloud security**.  
 📌 Siempre en busca de nuevos retos y proyectos interesantes.
